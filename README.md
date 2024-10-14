@@ -81,3 +81,12 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/antonio-fernandez-guerrero-11246494/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:afernandezgue@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
 </div>
+
+<h3> My GitHub Stats </h3>
+
+<div align ="center">
+  <a href="https://github.com/AFernandzG">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AFernandzG&count_private=true&include_all_commits=false&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFernandzG&theme=dark&hide_border=false&&layout=compact"/>
+  </a>
+</div>

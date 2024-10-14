@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <div>
   <h2> About me  </h2>  
   <p align="left"><i><b>
-  🎓 Computer Engineering @UTEL<br>
-  🟡 Student at Alura Latam<br>
+  🎓 Bachelor's Degree in Computer engineering at @UTEL<br>
+  🟡 Student at Alura Latam (Program: OracleNextEducation)<br>
   </i></b></p>
 
   <p>Interests: 📊 Data Science, 🧠🤖 Artificial Intelligence, 🌐 Back-End Development and ☁ Cloud

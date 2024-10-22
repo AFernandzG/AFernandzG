@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <p align="center" href="https://github.com/AFernandzG"> 
     <img src="https://komarev.com/ghpvc/?username=AFernandzG" alt="AFernandzG"/>
     <img src="https://img.shields.io/github/followers/AFernandzG.svg?style=flat&logo=github&label=Follow&maxAge=2592000&color=green" alt="AFernandzG"/> 
-    <img src="https://img.shields.io/twitter/follow/_FernandzG?color=purple&label=Follow&logo=twitter&style=flat" alt="AFernandzG"/>   
+<!--    <img src="https://img.shields.io/twitter/follow/_FernandzG?color=purple&label=Follow&logo=twitter&style=flat" alt="AFernandzG"/> -->  
   </p>
 </div>
   
